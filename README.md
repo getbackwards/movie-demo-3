@@ -1,4 +1,4 @@
-[Repo exploring this article](https://blog.bitsrc.io/animating-reactjs-with-react-transition-group-2af6c87cab0c)
+[Repo exploring this article.](https://blog.bitsrc.io/animating-reactjs-with-react-transition-group-2af6c87cab0c)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
